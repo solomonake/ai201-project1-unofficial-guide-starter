@@ -1,0 +1,31 @@
+Professor: Alex Edwards
+Department: Computer Science
+School: University of Virginia College at Wise
+Overall Rating: 4/5.0
+Difficulty: 2.6/5.0
+Number of Ratings: 5
+
+--- Review (2011-12-02) ---
+Course: COSCMANY | Grade: 
+Quality: 4/5 | Difficulty: 5/5 | Would Take Again: N/A
+Comment: Best teacher around, remembers what it was like to be student and makes sure that he isn't THAT professor.  This door is always open!!!
+
+--- Review (2011-11-22) ---
+Course: CSC2180 | Grade: 
+Quality: 4/5 | Difficulty: 4/5 | Would Take Again: N/A
+Comment: Dr. Edwards was a pretty cool teacher. He likes to crack jokes in class, but still covers the material well. Both tests we had were multiple choice and T/F with only the last section being a bit of writing code. Didn't grade anything but tests until end of semester though so no one was sure whether to drop or not before the drop date..
+
+--- Review (2009-11-11) ---
+Course: COCSMANY | Grade: 
+Quality: 5/5 | Difficulty: 5/5 | Would Take Again: N/A
+Comment: Best professor around, loves to talk with his students and learn as well.
+
+--- Review (2006-09-05) ---
+Course: COSC110 | Grade: 
+Quality: 2/5 | Difficulty: 2/5 | Would Take Again: N/A
+Comment: No Comments
+
+--- Review (2006-03-05) ---
+Course: COSC | Grade: 
+Quality: 4/5 | Difficulty: 5/5 | Would Take Again: N/A
+Comment: Probably the best CS prof at uvawise, if given the choice go with Edwards.

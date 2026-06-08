@@ -1,0 +1,11 @@
+Professor: Carlos Otero
+Department: Computer Science
+School: University of Virginia College at Wise
+Overall Rating: 4.5/5.0
+Difficulty: 2/5.0
+Number of Ratings: 1
+
+--- Review (2010-06-04) ---
+Course: COMP101 | Grade: 
+Quality: 5/5 | Difficulty: 4/5 | Would Take Again: N/A
+Comment: Professor Otero is an extremely well rounded professor and offers many different subjects of study for his students while in his class. I learned a substantial amount of coding and had reviews over things that I already knew. He is my advisor. I would recommend him to everyone who is a computer software engineering major take notes & do your work.
