@@ -70,11 +70,11 @@ This domain covers unofficial student reviews of professors at UVA Wise. This kn
 
 | # | Question | Expected answer |
 |---|----------|-----------------|
-| 1 | What do students say about the difficulty of Professor Robert Hatch's computer science assignments? | Assignments are time-consuming and require significant effort, but he is accessible for help if you ask. |
-| 2 | Does Professor Zafar Khan require mandatory attendance for his economics classes? | Yes, attendance is strictly monitored and missing classes will negatively impact your final grade. |
-| 3 | According to reviews, does Professor Michael Potter heavily curve his math exams? | No, exams are not heavily curved, so studying the lecture material thoroughly is crucial. |
-| 4 | What is the general student consensus on Professor Josephine Rodriguez's grading style in Biology? | She is a fair grader but has high expectations for detailed answers, particularly on lab reports. |
-| 5 | Do students recommend purchasing the textbook for Professor Mark Clark's history class? | No, most reviews indicate that his lectures cover everything needed for the exams and the textbook is rarely used. |
+| 1 | What do students say about Robert Hatch's homework and exam difficulty in computer science? | Homework is assigned regularly but manageable; tests are challenging but graded fairly — partial credit given if logic is right even when code isn't perfect. He helps students who ask. |
+| 2 | Is Jacob Somervell's computer science class hard, and do students recommend him? | Mixed — harsh grading, exams reportedly don't match lectures, pop quizzes hurt grades; but students who engage with him find him helpful and do recommend him. |
+| 3 | What do students say about Jennifer Wilson's math class and grading style? | Very positive — clear lectures, genuinely cares about students, tests are hard but extra credit and office hours help; nearly universally recommended. |
+| 4 | What is James Vance's teaching style and do students find his math class useful? | Mostly negative — fast lectures, little outside-class support, no grade drops, heavy online component with minimal real instruction; students largely advise avoiding him. |
+| 5 | Do students say Matthew Harvey's math class is worth taking despite the difficulty? | Yes — covers material well, goes the extra mile, brings humor to class, and is accessible; pop quizzes and heavy workload are noted but the consensus is he is worth it. |
 
 ---
 
